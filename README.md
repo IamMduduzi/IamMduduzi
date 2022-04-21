@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @IamMduduzi
-- 👀 I’m interested in Web development Frontend
+- 👋 Hi, I’m Mduduzi
+- 👀 I’m interested in Web developer Frontend
 - 🌱 I’m currently learning C#, Javascript and Python 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me @iamSihlee on Twitter and Jobe970@gmail.com 
 
 <!---
